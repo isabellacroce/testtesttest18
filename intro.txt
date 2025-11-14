@@ -1,0 +1,4 @@
+Hello! This is the welcome test file.
+We are here to understand how collaboration works on Github via this test.
+
+We hope you enjoy.
